@@ -32,5 +32,7 @@ Projek ini masih dalam tahap alfa. Oleh itu, sasaran kami sengaja dikecilkan sko
 - Menumpu kepada penambahan kosa kata warna dan kata ajukan.
 - Membangunkan tempat menyimpan data menggunakan teknologi pangkalan data yang bersesuaian.
 - Membangunkan laman web bagi tujuan persembahan dan capaian data.
+
+Lalu, jika sudah berjaya tiga perkara di atas, kami akan menggerakkan usaha:
 - Membangunkan antaramuka yang mudah untuk menambah kosa kata dalam pangkalan data.
 - Membangunkan API bagi mencapai data warna dan kata ajukan.
