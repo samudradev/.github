@@ -29,7 +29,7 @@ Kami ingin lihat data bahasa Melayu dicapai dengan mudah supaya menggalakkan pen
 
 ### Apakah langkah seterusnya?
 Projek ini masih dalam tahap alfa. Oleh itu, sasaran kami sengaja dikecilkan skop. Kami ingin:
-- Menumpu kepada penambahan kosa kata warna dan kata ajukan.
+- Menumpu kepada perkemaskan data kosa kata warna dan kata ajukan.
 - Membangunkan tempat menyimpan data menggunakan teknologi pangkalan data yang bersesuaian.
 - Membangunkan laman web bagi tujuan persembahan dan capaian data.
 
