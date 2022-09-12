@@ -1,7 +1,6 @@
 # Selamat datang!
 
-## Pengenalan Projek
-Kami ingin lihat data bahasa Melayu dicapai dengan mudah supaya menggalakkan pengunaan dan penyelidikannya.
+Kami ingin lihat data bahasa Melayu dicapai dengan mudah supaya menggalakkan penyelidikan, pendidikan dan penggunaannya!
 
 ### VISI
 - Memudahkan capaian data bahasa Melayu bagi tujuan penyelidikan, pendidikan, dan penggunaannya dalam pelbagai laras komunikasi.
